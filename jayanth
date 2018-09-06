@@ -1,0 +1,7 @@
+
+one
+two
+three
+
+cat > one.txt
+one two three
