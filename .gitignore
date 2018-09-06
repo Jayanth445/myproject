@@ -1,2 +1,4 @@
 # Ignoring the output 
 output/
+#ignore readme file
+README.txt
